@@ -1,0 +1,11 @@
+.DS_Store
+npm-debug.log
+
+/.nyc_output
+/node_modules
+/coverage
+/dist
+
+# react-static dist files
+/browser.api.js
+/node.api.js
